@@ -6,7 +6,7 @@ Senior .NET Architect and Technical Lead with 12 years of experience building pr
 
 | Repository | What it shows |
 |---|---|
-| [ReliableMessaging](https://github.com/debugger90/ReliableMessaging) | Reference architecture in .NET 10: gRPC API, transactional outbox as a job queue, Redis wake-up signals, idempotent workers with backoff and dead-lettering, OpenTelemetry, six ADRs and 30 tests on real PostgreSQL and Redis. Runs with `docker compose up`. |
+| [ReliableMessaging](https://github.com/debugger90/ReliableMessaging) | Reference architecture in .NET 10: gRPC API, transactional outbox as a job queue, Redis wake-up signals, idempotent workers with backoff and dead-lettering, OpenTelemetry, six ADRs, and 30 tests including integration tests on real PostgreSQL and Redis. Runs with `docker compose up`. |
 | [ConfigTransformer](https://github.com/debugger90/ConfigTransformer) | NuGet package that resolves `{Section:Key}` placeholders in .NET configuration. 1,000+ downloads, tested, released through CI with Trusted Publishing. |
 | [Exelify](https://github.com/debugger90/Exelify) | NuGet package that exports .NET objects to Excel with typed cells; every generated file is validated against the Open XML schema in CI. |
 
